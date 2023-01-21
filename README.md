@@ -1,5 +1,5 @@
 # dashboard-v13-v14
-Dassagına ve sırf ejs öğrenmek için yaptıgım yönetim paneli [v13 ü de var / v14 ü de var]
+Dassagına ve sırf ejs öğrenmek için yaptıgım yönetim paneli [v13 de var / v14 de var]
 
 # Küçük bir not :) : Yönetim panelinin front endini başka yerden aldım backendini kendim yaptım. [Front endim berbat ben napim]
 
