@@ -5,5 +5,11 @@ Dassagına ve sırf ejs öğrenmek için yaptıgım yönetim paneli [v13 de var 
 
 # Resimler Ivır Zıvır
 
-![image](https://user-images.githubusercontent.com/101521169/215984597-7b4f7592-b856-4395-a332-ae228b509e10.png)![image](https://user-images.githubusercontent.com/101521169/215984641-e2c76e45-8eaf-49ff-8e76-c52e2bb9a76a.png)
+
+
+
+![image](https://user-images.githubusercontent.com/101521169/215984832-ec336d51-7722-4416-91b9-f4b2eb003e5a.png) ![image](https://user-images.githubusercontent.com/101521169/215984879-8b0453c3-20e1-4aa7-996c-12f7ed463995.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/101521169/215984677-1e729b13-3e76-4014-9c27-677bec97756b.png)
