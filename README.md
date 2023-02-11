@@ -7,9 +7,8 @@ Dassagına ve sırf ejs öğrenmek için yaptıgım yönetim paneli [v13 de var 
 
 
 
-
-![image](https://user-images.githubusercontent.com/101521169/215984832-ec336d51-7722-4416-91b9-f4b2eb003e5a.png) ![image](https://user-images.githubusercontent.com/101521169/215984879-8b0453c3-20e1-4aa7-996c-12f7ed463995.png)
-
+![image](https://user-images.githubusercontent.com/101521169/218268383-2dda9334-2690-40ad-89b4-1e02ca78b7bb.png)![image](https://user-images.githubusercontent.com/101521169/218268395-2c817c9a-0abb-4e16-9f0a-e2480f96ec27.png)![image](https://user-images.githubusercontent.com/101521169/218268400-35155393-a82a-43c2-9cfb-540e4240a40f.png)![image](https://user-images.githubusercontent.com/101521169/218268418-7a63a561-cb68-4511-8afe-ad10d1dce87a.png)
 
 
-![image](https://user-images.githubusercontent.com/101521169/215984677-1e729b13-3e76-4014-9c27-677bec97756b.png)
+
+
